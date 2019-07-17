@@ -1,0 +1,5 @@
+﻿  GameObject.cpp
+E:\ProjectArcade\GameObject.cpp(52): warning C4554: "&": проверьте приоритет операторов на ошибки; для уточнения приоритета используйте скобки
+E:\ProjectArcade\GameObject.cpp(65): warning C4554: "&": проверьте приоритет операторов на ошибки; для уточнения приоритета используйте скобки
+E:\ProjectArcade\GameObject.cpp(80): warning C4554: "&": проверьте приоритет операторов на ошибки; для уточнения приоритета используйте скобки
+  ProjectArcade.vcxproj -> E:\ProjectArcade\Debug\ProjectArcade.exe
